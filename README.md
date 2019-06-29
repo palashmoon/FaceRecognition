@@ -26,6 +26,6 @@ A caffe model has 2 associated files,
 
 2 .caffemodel — This contains the information of the trained neural network (trained model).
 
-Download .prtotxt and .caffemodel from Here.
+Download .prtotxt and .caffemodel from [Here](https://talhassner.github.io/home/publication/2015_CVPR).
 
-Download haar cascade for face detection from Here.
+Download haar cascade for face detection from [Here](https://talhassner.github.io/home/publication/2015_CVPR).
